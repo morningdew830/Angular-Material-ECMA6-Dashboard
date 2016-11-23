@@ -30,3 +30,5 @@ class UsersService {
 
 export var userModule = angular.module('userModule', [])
   .service('userService', UsersService);
+
+
